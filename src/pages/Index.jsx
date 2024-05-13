@@ -32,25 +32,25 @@ const Index = () => {
             </TabPanel>
           </TabPanels>
         </Tabs>
-        <Box w="full" p={4} bg="gray.100" borderRadius="md">
+        <Box w="full" p={4} bg="gray.700" borderRadius="md">
           <Text fontSize="2xl" mb={2}>
             Market Overview
           </Text>
           <Text>Displaying top Brazilian companies and latest market news.</Text>
         </Box>
-        <Box w="full" p={4} bg="gray.100" borderRadius="md">
+        <Box w="full" p={4} bg="gray.700" borderRadius="md">
           <Text fontSize="2xl" mb={2}>
             Company-Specific Financials
           </Text>
           <Text>Structured financial data upon company selection.</Text>
         </Box>
-        <Box w="full" p={4} bg="gray.100" borderRadius="md">
+        <Box w="full" p={4} bg="gray.700" borderRadius="md">
           <Text fontSize="2xl" mb={2}>
             Portfolio and Market Overview
           </Text>
           <Text>Connect accounts and track financial assets.</Text>
         </Box>
-        <Box w="full" p={4} bg="gray.100" borderRadius="md">
+        <Box w="full" p={4} bg="gray.700" borderRadius="md">
           <Text fontSize="2xl" mb={2}>
             Events Calendar
           </Text>
