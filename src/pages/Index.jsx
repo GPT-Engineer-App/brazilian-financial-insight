@@ -14,9 +14,6 @@ const Index = () => {
               <FaChartLine /> EQUITIES
             </Tab>
             <Tab>
-              <FaDollarSign /> COMMODITIES
-            </Tab>
-            <Tab>
               <FaBuilding /> FOREX
             </Tab>
             <Tab>
@@ -26,9 +23,6 @@ const Index = () => {
           <TabPanels>
             <TabPanel>
               <Text>Real-time equities data and news updates.</Text>
-            </TabPanel>
-            <TabPanel>
-              <Text>Commodities market overview and trends.</Text>
             </TabPanel>
             <TabPanel>
               <Text>Forex exchange rates and financial news.</Text>
